@@ -1,0 +1,30 @@
+body {
+    background-color:#FFEEEE;
+
+
+  }
+  
+  hr{ 
+     border-style:  none;
+     border-top-style: dotted;
+     width: 8%;
+     border-width: 8px;
+     border-color: #F47C7C;
+  }
+
+  h1{
+     color : #66bfbf;
+     
+
+  }
+  h3,h5{
+    color : #66bfbf; 
+  }
+  a:link{
+      color:black;
+      text-decoration: none;
+  }
+  a:visited{
+      color:black;
+      text-decoration: none;
+  }
